@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "VORTEX (MODv)",
+  "base_artist": "セツコ(空白ごっこ)",
+  "createdAt": "2026-02-11T15:20:59.674609Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VORTEX-MODv-",
+      "artist": "セツコ(空白ごっこ)",
+      "has_synced": false,
+      "path": "select/pl_01_VORTEX-MODv-_セツコ(空白ごっこ).txt"
+    }
+  ]
+}
